@@ -1,10 +1,10 @@
 ## Bonjour
 
-Working with Angular on a daily basis, with always a deep interest on UX Design.
-I brought my psychology knowledge into IT, in order to improve the design and behaviour of a software,
-And of course, I bring croissant at work on mornings.
+Working with Angular on a daily basis, with always a deep interest on UX Design.  
+I brought my psychology knowledge into IT, in order to improve the design and behaviour of a software,  
+And of course, I bring croissants at work on mornings.
 
-## Stack
+### Stack
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -19,7 +19,7 @@ And of course, I bring croissant at work on mornings.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## Design
-![Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=devicon&logoColor=white)
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
