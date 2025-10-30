@@ -1,5 +1,6 @@
 ## Bonjour
 
+
 Working with Angular on a daily basis, with always a deep interest on UX Design.
 I brought my psychology knowledge into IT, in order to improve the design and behaviour of a software,  
 And of course, I bring croissants at work on mornings.
